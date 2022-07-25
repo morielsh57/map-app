@@ -7,5 +7,5 @@
 
 # Notes
 I used a **json-server** as a mock.
-All the data is written to **/coordinates.json**
-To view the data in the browser go to: http://localhost:5000/coordinates
+<br />All the data is written to **/coordinates.json**
+<br />To view the data in the browser go to: http://localhost:5000/coordinates
