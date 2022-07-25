@@ -1,0 +1,12 @@
+<div class="display-map-details-container">
+  <div id="mouse-position"></div>
+  <form>
+    <label for="projection">Projection </label>
+    <select id="projection" (change)="onChangeProjection($event)">
+      <option value="EPSG:4326">EPSG:4326</option>
+      <option value="EPSG:3857">EPSG:3857</option>
+    </select>
+    <label for="precision">Precision</label>
+    <input id="precision" type="number" min="0" max="12" value="4" (change)="onChangePrecision($event)" />
+  </form>
+</div>

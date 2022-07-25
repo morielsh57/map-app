@@ -1,0 +1,1 @@
+export const COORDINATE_BASE_URL_API = "http://localhost:5000/coordinates/";
