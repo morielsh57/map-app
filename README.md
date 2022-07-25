@@ -1,6 +1,6 @@
 # Running the project
 - clone the repository
-- run the following commands :
+- run the following commands in the project's root directory :
   - npm install
   - npm run server
   - npm start
