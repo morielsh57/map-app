@@ -3,7 +3,7 @@
 - run the following commands in the project's root directory :
   - npm install
   - npm run server
-  - npm start
+  - npm start (in new terminal)
 
 # Notes
 I used a **json-server** as a mock.
